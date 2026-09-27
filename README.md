@@ -4,6 +4,7 @@ I'm a Senior Backend Engineer with 8+ years of experience building systems with 
 
 Currently going deeper into:
 - JVM & Java internals
+- Data Structures & Algorithms
 - Distributed systems
 - Databases & networking
 - Cloud-native engineering
